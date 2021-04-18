@@ -1,0 +1,40 @@
+body {
+    background-image: url("./bg.png");
+}
+
+.postkarte {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h2 {
+    position: absolute;
+    left: 70px;
+    top: 30px;
+    color: white;
+    font-size: 26pt;
+}
+
+p {
+    width: 420px;
+    height: 400px;
+    position: absolute;
+    left: 520px;
+    top: 270px;
+    color: white;
+    font-size: 17px;
+}
+
+form {
+    position: absolute;
+    left: 70px;
+    top: 120px;
+    color: honeydew;
+
+}
+
+#lname {
+
+    width: 350px;
+    height: 50px;
